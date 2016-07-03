@@ -225,6 +225,7 @@ for(int j=0;j<listB.size();j++)
     cout<<"  "<<*listB[j];
 cout<<endl;
 
+// get a name from class sma;kkksta
 return 0;
 }
 
